@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1781769850|2903885119';
+const CACHE_VERSION = '1781782000|24751079';
 /** @type {string} */
 const CACHE_PREFIX = 'Bachelor-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
